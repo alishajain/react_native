@@ -12,7 +12,7 @@ const FancyCard = () => {
         <View style={styles.cardBody}>
           <Text style={styles.cardTitle}>Beautiful Art</Text>
           <Text style={styles.cardLabel}>Google</Text>
-          <Text style={styles.cardDescription}>nsjkcnklmewkfjliuegwvcjklsaojichugiyvhsancjiusa8ygchbjsjichu</Text>
+          <Text style={styles.cardDescription}>It is a very beautiful piece of Indian Art</Text>
           <Text style={styles.cardFooter}>Google Images</Text>
         </View>
       </View>

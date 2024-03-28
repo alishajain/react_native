@@ -6,7 +6,7 @@ const App = () => {
 
   return (
       <View style={style.container}>
-        <Text style={isDarkMode? style.whiteText:style.darkText}>Hello World! This is Alisha</Text>
+        <Text style={isDarkMode? style.whiteText:style.darkText}>Hello World! This is Alisha Jain</Text>
       </View>
   );
 }
