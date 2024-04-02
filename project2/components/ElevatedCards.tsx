@@ -47,11 +47,10 @@ const styles = StyleSheet.create({
       flex: 1,
       alignItems: 'center',
       justifyContent: 'center',
-        width: 100,
-        height: 100,
-        borderRadius: 4,
-        margin: 8,
-
+      width: 100,
+      height: 100,
+      borderRadius: 4,
+      margin: 8
     },
 
     elevatedCard: {
